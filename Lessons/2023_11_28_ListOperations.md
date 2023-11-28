@@ -59,7 +59,7 @@ Tuesday, November 28th 2023<BR>
 |`my_list[i] = new_element`|Replaces the element at index `i` of `my_list` with `new_element`|
 |`my_list[i] = my_list[j]`|Replaces the element at index `i` of `my_list` with the element at index `j` of `my_list`|
 |`my_list.append(new_element)`|Appends `new_element` to the end of `my_list`.|
-|`my_list.insert(new_element,i)`|Inserts `new_element` to position `i` of `my_list` and pushes all subsequent elements back.|
+|`my_list.insert(i,new_element)`|Inserts `new_element` to position `i` of `my_list` and pushes all subsequent elements back.|
 |`del my_list[i]`|Deletes the element at index `i` of `my_list` and pulls all subsequent elements forward.|
 
 **READING:** https://edube.org > Python Essentials 1 > 3.4.1.1 - 3.4.1.8
