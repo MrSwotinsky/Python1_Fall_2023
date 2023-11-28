@@ -1,4 +1,5 @@
-## Python 1 - Tuesday, November 28th 2023<BR><BR>
+## Python 1
+Tuesday, November 28th 2023<BR><BR>
 
 ### **List Operations**
 
