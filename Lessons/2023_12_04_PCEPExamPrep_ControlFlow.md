@@ -56,5 +56,6 @@ CODE GOES HERE
 ```
 ````
 
+<A HREF="https://www.markdownguide.org/basic-syntax/">Markdown Guide - Basic Syntax</A>
 
 **READING:** https://edube.org > Python Essentials 1 > 3.1.1.1 - 3.2.1.17
